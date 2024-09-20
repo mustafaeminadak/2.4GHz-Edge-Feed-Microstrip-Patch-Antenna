@@ -1,0 +1,41 @@
+
+              Logfile of Field Evaluation
+              ===========================
+
+Calculation window:
+===================
+
+ Coordinate System       : global (xyz)   cartesian
+ Dimension               : 1D
+ Direction (tangential)  : X
+ Stepsize                : 0.28
+
+                 low        high    stepsize
+         ----------- ----------- -----------
+       X -7.7474E+01 77.47405725  2.8020E-01
+       Y -7.2474E+01 -7.2474E+01           1
+       Z -3.7509E+01 -3.7509E+01           1
+
+Evaluated field, component and result value:
+============================================
+
+ Evaluated field         : Surface Current\surface current (f=2.4) [1]
+ Field component         : Abs
+ Complex                 : Real Part
+ Result Value            : 1D Plot of Field Values
+
+
+Result Data:
+============
+
+ NData Points = 554
+
+ Max. value   =            0 at ( -7.7474E+01/ -7.2474E+01/ -3.7509E+01)
+ Min. value   =            0 at ( -7.7474E+01/ -7.2474E+01/ -3.7509E+01)
+ Mean value   =            0
+ Deviation    =            0
+
+ Integral     =            0
+ Volume (Unit)=   1.5523E+02 mm^1
+ Volume (SI)  =   1.5523E-01 m^1
+
